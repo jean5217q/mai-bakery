@@ -1,26 +1,16 @@
-# bread
+# T612
+Web Link: https://jean5217q.github.io/mai-bakery/
+## Technologies
 
-## Project setup
-```
-npm install
-```
+* Sass
+* Vue
+* Google Map
+* Ui Design
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Banner
+![homepage](https://raw.github.com/jean5217q/mai-bakery/master/screenshot/homepage.png) 
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![intro](https://raw.github.com/jean5217q/mai-bakery/master/screenshot/intro.png) 
 
-### Run your tests
-```
-npm run test
-```
+![product](https://raw.github.com/jean5217q/mai-bakery/master/screenshot/product.png) 
 
-### Lints and fixes files
-```
-npm run lint
-```
